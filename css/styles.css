@@ -3,6 +3,18 @@ ul, li {
     margin-top: 0;
 }
 
+li {
+    list-style:georgian;
+}
+
 h4 {
     margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+ .kether {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
